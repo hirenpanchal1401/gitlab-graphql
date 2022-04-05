@@ -1,4 +1,4 @@
-module gitLab-graphql
+module gitlab-graphql
 
 go 1.17
 
